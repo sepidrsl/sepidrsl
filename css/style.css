@@ -55,3 +55,26 @@
 	color:darkgrey;
 	font-size: 12px;
 }
+.myButton {
+	background-color:transparent;
+	-moz-border-radius:17px;
+	-webkit-border-radius:17px;
+	border-radius:17px;
+	border:1px solid #7fa7e3;
+	display:inline-block;
+	cursor:pointer;
+	color:#4592d6;
+	font-family:Arial;
+	font-size:17px;
+	padding:11px 36px;
+	text-decoration:none;
+	margin-bottom: 15px;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
