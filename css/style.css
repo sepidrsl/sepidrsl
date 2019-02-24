@@ -66,9 +66,10 @@
 	color:#4592d6;
 	font-family:Arial;
 	font-size:17px;
-	padding:11px 36px;
+	padding:11px 46px;
 	text-decoration:none;
 	margin-bottom: 15px;
+	margin-top: 15px;
 }
 .myButton:hover {
 	background-color:transparent;
