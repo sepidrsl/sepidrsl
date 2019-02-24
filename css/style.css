@@ -73,6 +73,7 @@
 }
 .myButton:hover {
 	background-color:transparent;
+	text-decoration: none;
 }
 .myButton:active {
 	position:relative;
