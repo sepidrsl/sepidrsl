@@ -41,6 +41,28 @@
 	color:lightgray;
 	font-size: 22px;
 	margin-top: 50px;
+  font-size: 30px;
+  text-transform:capitalize;
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#proj
+{
+	font-family: 'iransansmedium';
+	color:lightgray;
+	font-size: 22px;
+	margin-top: 50px;
+  font-size: 30px;
+  text-transform:capitalize;
+	background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 #txtcontact
 {
@@ -73,7 +95,7 @@ ul {
 	display:inline-block;
 	cursor:pointer;
 	color:#1796F3;
-	font-family:Arial;
+	font-family:'iransanslight';
 	font-size:17px;
 	padding:8px 36px;
 	text-decoration:none;
