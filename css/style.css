@@ -53,7 +53,7 @@ ul {
 
 .header
 {
-  border: 1px solid #4EA2EF;border-radius: 15px;
+  border: 1px solid #1796F3;border-radius: 15px;
 	margin-top: 40px;
 	margin-bottom: 40px;
 	
@@ -69,10 +69,10 @@ ul {
 	-moz-border-radius:17px;
 	-webkit-border-radius:17px;
 	border-radius:17px;
-	border:1px solid #7fa7e3;
+	border:1px solid #1796F3;
 	display:inline-block;
 	cursor:pointer;
-	color:#4592d6;
+	color:#1796F3;
 	font-family:Arial;
 	font-size:17px;
 	padding:8px 36px;
