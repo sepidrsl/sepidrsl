@@ -118,3 +118,23 @@ img
 	color: #646262;
 	font-size: 14px;
 }
+
+/*for mobile Version */
+
+@media only screen and (max-width: 600px) {
+  img { 
+     width: 400px;
+	  height: 350px;
+  }
+.line-1{
+    text-align: center;
+    margin: 0 auto; 
+    width: 28em;
+    border-right: 2px solid rgba(255,255,255,.75);
+    font-size: 130%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);    
+}
+}
