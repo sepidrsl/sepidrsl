@@ -55,7 +55,8 @@ html{
   overflow: hidden;
 }
 .bodycls{
-  
+  text-align: center;
+	margin: 0 auto;
   padding: 3em;
   color:black;
   font-family: 'Anonymous Pro', monospace;  
