@@ -49,6 +49,10 @@
 
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
+/*for mobile Version */
+@import url('mobile.css') only screen
+and (max-width: 600px);
+
 /* Global */
 html{
   min-height: 100%;
@@ -121,9 +125,7 @@ img
 	font-size: 14px;
 }
 
-/*for mobile Version */
-@import url("mobile.css") only screen
-and (max-width: 600px);
+
 
 
 /* @media only screen and (max-width: 600px) {
