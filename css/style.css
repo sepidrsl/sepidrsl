@@ -34,6 +34,10 @@
        url('./fonts/IRANSans_Bold.ttf') format('truetype');
 }
 
+/*for mobile Version */
+@import url('mobile.css') only screen
+and (max-width: 600px);
+
 
 #mainmsg
 {
@@ -49,9 +53,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
 
-/*for mobile Version */
-@import url('mobile.css') only screen
-and (max-width: 600px);
+
 
 /* Global */
 html{
