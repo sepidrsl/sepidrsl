@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<head>
+<!DOCTYPE html><head>
 	<title>Sepideh Rasouli</title>
+	<script>
+$(window).resize(function() {
+    if (screen.width > 600) {
+        $('.footer').text("kljlkj");
+    }
+});
+</script>
 	
-	<script type="text/javascript">
-
-			if (screen.width <= 600px) {
-			$( "p.footer" ).text( "<b>Some</b> new text." );
-			}
-     </script>
 	
-	
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 	
 	
@@ -30,7 +29,7 @@
 	 <p class="line-1 anim-typewriter">Sepideh Rasouli official Page.</p>
 	<br>
 	  <a href="#" class="button">Enter :)</a>
-	<p class="footer">copyright © 2019  sepidrsl.github.io</p>
+	<p class="footer" id="footertxt">copyright © 2019  sepidrsl.github.io</p>
 	</div>
 </body>
 </html>
