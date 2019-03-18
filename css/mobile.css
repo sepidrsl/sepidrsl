@@ -1,17 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
-
- img { 
-     width: 300px;
-	  height: 250px;
-	  margin: 0 auto;
-  }
+img
+{
+	height: 10px;
+	width: 20px;
+}
 .line-1{
-    text-align: center;
+    
     margin: 0 auto; 
     width: 28em;
     border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 110%;
+    font-size: 80%;
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
