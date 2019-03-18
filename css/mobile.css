@@ -1,11 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
-img
+#banner
 {
 	text-align: center;
 	margin-bottom: 50px;
 	width: 300px;
 	height: 200px;
+	background-image: url("../images/back2.gif")
 }
 .line-1{
     
